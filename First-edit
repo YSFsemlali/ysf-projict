@@ -1,5 +1,14 @@
-<!Doctype html>
-<Body>
-<title> websem </title>
- <h1> my first web page made by code <h1>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Index</title>
+</head>
 <body>
+    <title> web-sem </title>
+    <div>
+        <h1 >semdevo</h1>
+        <p> this is my first webpage I made with code I hope it doesnt suck </p>
+    </div>
+</body>
+</html>
